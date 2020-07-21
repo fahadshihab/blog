@@ -1,14 +1,67 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "The most popular mistakes",
+      "category" : "",
+      "tags"     : "Lifehacks",
+      "url"      : "/galada/the-most-popular-mistakes/",
+      "date"     : "2018-08-23 18:35:55 +0530"
+    } ,
+  
+    {
+      "title"    : "Night city lights",
+      "category" : "",
+      "tags"     : "Cities",
+      "url"      : "/galada/night-city-lights/",
+      "date"     : "2018-08-23 18:34:55 +0530"
+    } ,
+  
+    {
+      "title"    : "Premiere on Broadway",
+      "category" : "",
+      "tags"     : "Rest",
+      "url"      : "/galada/premiere-on-broadway/",
+      "date"     : "2018-08-23 18:34:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Abstraction as art",
+      "category" : "",
+      "tags"     : "Art",
+      "url"      : "/galada/abstraction-as-art/",
+      "date"     : "2018-08-23 18:33:50 +0530"
+    } ,
+  
+    {
+      "title"    : "The path to self-perfection",
+      "category" : "",
+      "tags"     : "Life",
+      "url"      : "/galada/the-path-to-self-perfection/",
+      "date"     : "2018-08-23 18:33:30 +0530"
+    } ,
+  
+    {
+      "title"    : "How to Plan a Camping Trip",
+      "category" : "",
+      "tags"     : "Trip",
+      "url"      : "/galada/how-to-plan-a-camping-trip/",
+      "date"     : "2018-08-23 18:33:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Flower Care Guide",
+      "category" : "",
+      "tags"     : "Guide and Flowers",
+      "url"      : "/galada/flower-care-guide/",
+      "date"     : "2018-08-23 18:32:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "category" : "",
+      "tags"     : "Jekyll",
+      "url"      : "/galada/welcome-to-jekyll/",
+      "date"     : "2018-05-29 20:35:55 +0530"
+    } 
+  
 ]
