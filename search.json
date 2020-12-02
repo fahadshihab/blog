@@ -1,67 +1,19 @@
 [
   
     {
+      "title"    : "The Ammonia Economy",
+      "category" : "",
+      "tags"     : "energy and opinion",
+      "url"      : "/electric-vehicles/",
+      "date"     : "2020-08-23 16:03:30 +0530"
+    } ,
+  
+    {
       "title"    : "Interactive Blackholes on the Internet",
       "category" : "",
       "tags"     : "Visual",
       "url"      : "/rendering-simple-blackholes-in-realtime/",
       "date"     : "2020-08-10 16:05:55 +0530"
-    } ,
-  
-    {
-      "title"    : "Night city lights",
-      "category" : "",
-      "tags"     : "Cities",
-      "url"      : "/night-city-lights/",
-      "date"     : "2018-08-23 18:34:55 +0530"
-    } ,
-  
-    {
-      "title"    : "Premiere on Broadway",
-      "category" : "",
-      "tags"     : "Rest",
-      "url"      : "/premiere-on-broadway/",
-      "date"     : "2018-08-23 18:34:00 +0530"
-    } ,
-  
-    {
-      "title"    : "Abstraction as art",
-      "category" : "",
-      "tags"     : "Art",
-      "url"      : "/abstraction-as-art/",
-      "date"     : "2018-08-23 18:33:50 +0530"
-    } ,
-  
-    {
-      "title"    : "How to Plan a Camping Trip",
-      "category" : "",
-      "tags"     : "Trip",
-      "url"      : "/how-to-plan-a-camping-trip/",
-      "date"     : "2018-08-23 18:33:00 +0530"
-    } ,
-  
-    {
-      "title"    : "Flower Care Guide",
-      "category" : "",
-      "tags"     : "Guide and Flowers",
-      "url"      : "/flower-care-guide/",
-      "date"     : "2018-08-23 18:32:00 +0530"
-    } ,
-  
-    {
-      "title"    : "Simulating Black Holes",
-      "category" : "",
-      "tags"     : "Life",
-      "url"      : "/the-path-to-self-perfection/",
-      "date"     : "2018-08-23 16:03:30 +0530"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll!",
-      "category" : "",
-      "tags"     : "Jekyll",
-      "url"      : "/welcome-to-jekyll/",
-      "date"     : "2018-05-29 20:35:55 +0530"
     } 
   
 ]
