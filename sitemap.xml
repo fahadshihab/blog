@@ -5,8 +5,8 @@
 <lastmod>2020-08-10T16:05:55+05:30</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/blog/electric-vehicles/</loc>
-<lastmod>2020-08-23T16:03:30+05:30</lastmod>
+<loc>http://localhost:4000/blog/on-independence-day/</loc>
+<lastmod>2021-08-15T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/about/</loc>
@@ -19,5 +19,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/landing_page/index.html</loc>
+<lastmod>2021-09-02T00:41:47+05:30</lastmod>
 </url>
 </urlset>
