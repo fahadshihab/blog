@@ -1,19 +1,27 @@
 [
   
     {
-      "title"    : "On Independence Day",
+      "title"    : "Engineering: a victim of false advertising",
       "category" : "",
-      "tags"     : "opinion",
-      "url"      : "/blog/on-independence-day/",
-      "date"     : "2021-08-15 00:00:00 +0530"
+      "tags"     : "Opinion, Engineering, and Education",
+      "url"      : "/blog/engineering-a-victim-of-false-advertising/",
+      "date"     : "2021-09-08 20:00:00 +0530"
     } ,
   
     {
-      "title"    : "Interactive Blackholes on the Internet",
+      "title"    : "Its okay not to be great",
       "category" : "",
-      "tags"     : "Visual",
-      "url"      : "/blog/rendering-simple-blackholes-in-realtime/",
-      "date"     : "2020-08-10 16:05:55 +0530"
+      "tags"     : "Engineering and Opinion",
+      "url"      : "/blog/its-okay-not-to-be-great/",
+      "date"     : "2021-09-08 16:05:55 +0530"
+    } ,
+  
+    {
+      "title"    : "On Independence Day",
+      "category" : "",
+      "tags"     : "Opinion",
+      "url"      : "/blog/on-independence-day/",
+      "date"     : "2021-08-15 00:00:00 +0530"
     } 
   
 ]
